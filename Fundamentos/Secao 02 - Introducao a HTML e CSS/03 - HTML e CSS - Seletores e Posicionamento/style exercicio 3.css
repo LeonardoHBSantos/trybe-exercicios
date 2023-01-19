@@ -4,3 +4,6 @@ h1, p {
 li:hover {
     background-color: yellow;
 }
+li:active {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
